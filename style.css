@@ -1,0 +1,197 @@
+#bodypart 
+{
+    background-color: whitesmoke;
+}
+#h1a {
+    color: blue;
+}
+#h1b {
+    color: green;
+}
+#div1 {
+    border: 2px solid green;
+    background-color: white;
+    color: green;
+    display: inline-block;
+    padding: 2px;
+    
+}
+#favicon {
+    width: 1000px;
+    height: 1000px;
+}
+#div2 {
+    border:2px solid green;
+    color: green;
+    display: inline-block;
+    background-color: white;
+    padding: 2px;
+}
+#div3 {
+    border: 2px solid green;
+    color: green;
+    display: inline-block;
+    background-color: white;
+    padding: 2px;
+    float: left
+}
+div {
+    background-color: blue; 
+}
+#para1 {
+    text-align: center;
+    color: white; 
+} 
+#div4 {
+    background-color: white;
+    border: 2px solid whitesmoke;
+} 
+#img2 {
+    width: 160px;
+    height: 70px;
+    margin: 0px 20px ;
+}
+#div5 {
+  background-color:whitesmoke;
+    text-align: justify;
+    margin: 80px 80px;
+}
+#h4a {
+    color: black;
+    display: inline-block;
+    border: white solid 2px;
+    border-radius: 15px;
+    margin: 0px 30px;
+}
+#h4b {
+    color: black;
+    display: inline-block;
+    border: solid white 2px;
+    border-radius: 15px;
+    
+}
+#h4c {
+    color: black;
+    display: inline-block;
+    border: solid white 2px;
+    margin: 0px 20px;
+    border-radius: 15px;
+    
+}
+h4:hover{
+    background-color: royalblue;
+    color: white;
+}
+
+.img3 {
+    width: 50px;
+    height: 50px;
+    margin: 10px 30px;  
+}
+.para2 {
+    font-size: large;
+    color: white;
+    margin: 10px 30px ;   
+}
+.span1 {
+    color: green;
+}
+#dd {
+    float: left;
+}
+#fa {
+    float: left;
+}
+#m {
+    float: left;
+}
+#main {
+    margin: 10px 70px;
+}
+#wwad1 {
+color: blue;
+clear: both;
+}
+#wwad2 {
+    color: green;
+}
+#wwad3 {
+    width: 50px;
+    height: 50px;
+    margin:10px 30px ;
+}
+#os 
+{
+    background-color: white;
+    border:whitesmoke solid 5px; 
+    width: 360px;
+    height: 200px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+.wwad2 {
+    color: blue;
+}
+#we {
+    background-color:white;
+    border: whitesmoke solid 5px;
+    height: 200px;
+    width: 360px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+#wwad4 {
+    width: 100px;
+    height: 70px;
+    margin: 10px 30px;
+    background-color: blue;
+}
+#wwad5 {
+    width: 50px;
+    height: 50px;
+    margin: 10px 30px;
+}
+#ml {
+    background-color: white;
+    border: whitesmoke solid 5px;
+    height: 200px;
+    width: 360px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+#wwad6 {
+    width: 50px;
+    height: 50px;
+    margin: 10px 30px;
+    background-color: grey;
+}
+#dn {
+    background-color: white;
+    border: whitesmoke solid 5px;
+    height: 200px;
+    width: 360px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+#wwad7 {
+      width: 50px;
+      height: 50px;
+      margin: 10px 30px;   
+}
+#ro {
+    background-color: white;
+    border: white solid 5px;
+    height: 200px;
+    width: 360px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+#wwad8 {
+    width: 50px;
+    height: 50px;
+    margin: 10px 30px;
+    background-color: blue;
+}
+#ed {
+    background-color: white;
+    border: whitesmoke solid 5px;
+    height: 200px;
+    width: 360px;
+    box-shadow: grey 2px 2px 2px 2px;
+}
+
